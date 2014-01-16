@@ -1,4 +1,4 @@
 floorplan
 =========
 
-The schematics of Wedge 2.0
+The schematics of Wedge 2.0 ;-)
