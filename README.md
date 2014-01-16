@@ -1,4 +1,4 @@
-floorplan
+The Wedge Floorplan
 =========
 
-The schematics of Wedge 2.0 ;-)
+![The Wedge](The Wedge.png)
